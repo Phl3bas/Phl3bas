@@ -1,4 +1,4 @@
-# Hi there Im Sepp! 👋
+# Hi there im Sepp! 👋
 
 ## Fullstack Javascript developer / BI Analyst / Python Tinkerer
 
