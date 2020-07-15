@@ -1,6 +1,6 @@
 # Hi there im Sepp! 👋
 
-## Fullstack Javascript developer / BI Analyst / Python Tinkerer
+## Typescript Fanboy / WEBGL Lover / Python Tinkerer
 
 
 
