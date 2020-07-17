@@ -2,6 +2,7 @@
 
 ## Typescript Fanboy / WEBGL Lover / Python Tinkerer
 
+### Looking for Freelance and/or Fulltime Dev work!
 
 
 - 🔭 I’m currently working on: Resap / FennecJS / Fennec-CLI
