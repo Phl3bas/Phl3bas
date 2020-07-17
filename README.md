@@ -1,6 +1,6 @@
 # Hi there im Sepp! 👋
 
-## Typescript Fanboy / WEBGL Lover / Python Tinkerer
+Typescript Fanboy / WEBGL Lover / Python Tinkerer
 
 ### Looking for Freelance and/or Fulltime Dev work!
 
