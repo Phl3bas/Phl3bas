@@ -2,8 +2,6 @@
 
 Typescript Fanboy / WEBGL Lover / Library maintainer
 
-### Looking for Freelance and/or Fulltime Dev work!
-
 
 - 🔭 I’m currently working on: Tealeaf and FuchsiaJS 
 - 🌱 I’m currently learning: all the things
