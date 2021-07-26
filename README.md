@@ -11,7 +11,7 @@
 
 <br/>
 
-I am a Full Stack Software Engineer based in Dorset, UK. I have a passion for building this with code, in particular creating packages for other developers to use.
+I am a Full Stack Software Engineer based in Dorset, UK. I have a passion for building things with code, in particular creating packages for other developers to use.
 
 <br/>
 
