@@ -23,7 +23,7 @@ I am a Full Stack Software Engineer based in Dorset, UK. I have a passion for bu
 
 ## My Packages
 
-<img src="https://raw.githubusercontent.com/Phl3bas/Tealeaf/main/assets/tealeaf-primary.svg" alt="tealeaf logo" height="100" width="300" />
+<img src="https://raw.githubusercontent.com/Phl3bas/tealeaf/main/assets/tealeaf-primary.svg" alt="tealeaf logo" height="100" width="300" />
 <img src="https://raw.githubusercontent.com/Phl3bas/fuchsia/master/assets/fuchsia-logo.svg" alt="fuchsia logo" height="90" width="350" />
 
 
