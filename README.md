@@ -1,5 +1,5 @@
 # Hi there im Sepp! 👋
-![Twitter Follow](https://img.shields.io/twitter/follow/phl3bas)
+![Twitter Follow](https://img.shields.io/twitter/follow/seppcodes)
 
 - 🔭 I’m currently working on: Tealeaf and FuchsiaJS 
 - 🌱 I’m currently learning: all the things
