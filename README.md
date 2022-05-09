@@ -1,7 +1,7 @@
 # Hi there im Sepp! 👋
 ![Twitter Follow](https://img.shields.io/twitter/follow/seppcodes)
 
-- 🔭 I’m currently working on: styld
+- 🔭 I’m currently working on: javascript reactivity / JSX / CSSOM
 - 🌱 I’m currently learning: all the things
 - 👯 I’m looking to collaborate on: Anything
 - 😄 Pronouns: he/him
